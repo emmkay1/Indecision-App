@@ -1,2 +1,2 @@
 # single-page-apps
-Created with CodeSandbox
+Single page React app to help you decide what to do.
