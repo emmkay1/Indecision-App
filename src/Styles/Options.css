@@ -1,0 +1,16 @@
+.options-header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  padding: 10px 10px 0;
+  background: #161e27;
+}
+
+.remove-all-btn {
+  cursor: pointer;
+}
+
+.no-options {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 30px 10px;
+}

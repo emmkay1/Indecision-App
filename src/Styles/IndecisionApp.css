@@ -1,0 +1,19 @@
+.top-container {
+  display: flex;
+  /* justify-content: center; */
+  flex-flow: column;
+}
+
+.indecision-app {
+  /* display: flex;
+  flex-flow: column; */
+  /* margin: auto; */
+  /* width: 600px; */
+  /* max-width: 40%; */
+  /* width: 50%; */
+  align-self: center;
+  background: #2a3a4b;
+  /* max-width: 100%; */
+  min-width: 30%;
+  /* margin: 50px; */
+}

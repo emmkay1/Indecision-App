@@ -1,0 +1,17 @@
+.big-btn {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 36px;
+  min-width: 30%;
+  padding: 20px;
+  border: 0;
+  border-radius: 5px;
+  color: white;
+  background: #6d3e80;
+  font-weight: bold;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

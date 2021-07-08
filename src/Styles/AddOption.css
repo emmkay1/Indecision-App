@@ -1,0 +1,22 @@
+.add-option {
+  padding: 20px 10px 20px 10px;
+}
+
+.add-input {
+  padding: 10px;
+  border: 0;
+  border-radius: 5px;
+  width: 65%;
+  background: rgba(26, 38, 49, 0.7);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.add-btn {
+  color: white;
+  /* border: 1px solid rgba(255, 255, 255, 1); */
+  background: #6d3e80;
+  border: 0;
+  padding: 10px;
+  margin-left: 10px;
+}
